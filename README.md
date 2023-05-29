@@ -2,6 +2,28 @@
 Basic customer-order save system for homework.
 
 
+### Program capabilities
+
+List all customers.
+
+Create new customers.
+
+1. List the customers with the letter 'C'
+
+2. List the total amount of invoices of customers who registered in June.
+
+3. List all invoices.
+
+4. List invoices over 1500TL.
+
+5. Calculate the average of invoices over 1500TL.
+
+6. List the names of customers with invoices under 500TL.
+
+7. Sectors of companies whose invoice average is below 750 in June
+
+8. List all customers
+
 # Program Input:
 
 (Name, Sector, RegistrationMonth)
