@@ -1,6 +1,10 @@
 # Customer-Order System
 Basic customer-order save system for homework.
 
+## Use
+```
+mvn clean install
+```
 
 ### Program capabilities
 
